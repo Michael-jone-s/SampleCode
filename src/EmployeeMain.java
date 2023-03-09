@@ -4,7 +4,7 @@ public class EmployeeMain {
         Scanner scanner = new Scanner(System.in);
 
         // Create an array to hold employee objects
-        Employee[] employees = new Employee[3];
+        EmployeeInterface[] employees = new EmployeeInterface[1];
 
         // Create 3 employees
         for (int i = 0; i < employees.length; i++) {
@@ -24,13 +24,13 @@ public class EmployeeMain {
         }
 
         // Display each employee's monthly and yearly salary
-        for (Employee employee : employees) {
-            System.out.println("Employee Name: " + employee.getFirstName() + " " + employee.getLastName());
-            System.out.println("Designation: " + employee.getDesignation());
+        for (EmployeeInterface employee : employees) {
+            System.out.println("Employee Name: " + ((Employee)employee).getFirstName() + " " + ((Employee)employee).getLastName());
+            System.out.println("Designation: " + ((Employee)employee).getDesignation());
             System.out.println("Monthly Salary: " + employee.calculateMonthlySalary());
             System.out.println("Yearly Salary: " + employee.calculateYearlySalary());
             System.out.println();
         }
     }
-
 }
+

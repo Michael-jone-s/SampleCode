@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Employee {
+public class Employee implements EmployeeInterface {
     private String firstName;
     private String lastName;
     private int employeeId;
@@ -80,11 +80,13 @@ public class Employee {
     }
 
     // Method to calculate monthly salary
+    @Override
     public double calculateMonthlySalary() {
         return salary / 12.0;
     }
 
     // Method to calculate yearly salary
+    @Override
     public double calculateYearlySalary() {
         return salary;
     }
