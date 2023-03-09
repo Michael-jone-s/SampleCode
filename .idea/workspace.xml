@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b76f622a-d924-4b32-bd1c-8688e638804c" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/EmployeeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankingApplication/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankingApplication/BankingApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -44,7 +43,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Mh7alJ8g2U7LytFQQoj1dxnYPx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -76,7 +77,8 @@
       <workItem from="1678257081367" duration="94000" />
       <workItem from="1678257191756" duration="22000" />
       <workItem from="1678271229191" duration="4056000" />
-      <workItem from="1678345081394" duration="302000" />
+      <workItem from="1678345081394" duration="1209000" />
+      <workItem from="1678359668280" duration="2776000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1678208281557</created>
@@ -127,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678276225661</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Initial Commit">
+      <created>1678345667036</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678345667036</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
