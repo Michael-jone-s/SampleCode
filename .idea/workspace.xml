@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b76f622a-d924-4b32-bd1c-8688e638804c" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/LibraryManagement/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryManagement/LibraryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankApplication/BankingApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoginPage/Login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +80,8 @@
       <workItem from="1678345081394" duration="1209000" />
       <workItem from="1678359668280" duration="3504000" />
       <workItem from="1678432283665" duration="3123000" />
-      <workItem from="1678686270084" duration="957000" />
+      <workItem from="1678686270084" duration="1100000" />
+      <workItem from="1678705174986" duration="3070000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1678208281557</created>
@@ -159,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678445640408</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Initial Commit">
+      <created>1678687358091</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678687358091</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
